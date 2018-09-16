@@ -31,7 +31,7 @@ do et
 
 ## Program screenshots
 ### Selecting the interface and running the scanner/listener
-![Loading image....](https://imgur.com/a/TO43uK9)
+![Loading image....](https://i.imgur.com/yn8bq34.png)
 ### Dissconnecting from the vpn (we try to avoid this)
 ![Loading image....](https://i.imgur.com/usPChe2.png)
 ### Internet connection disabled
