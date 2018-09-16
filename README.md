@@ -31,7 +31,7 @@ Once your vpn is connect, and you have selected the proper interface, KillSwitch
 This is for the people who use a VPN that does not come with a premade kill switch.
   
 
-## Contribute/To Do
+## Coming Soon
 ### If you wanna help or wanna know what is going to be added in the coming releases, here is a list of things that need to be done.
 - create linux version
 - There is a bug with re-enabling the interface (quick fix by reoping and closing the program)
