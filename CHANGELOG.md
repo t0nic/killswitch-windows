@@ -5,7 +5,7 @@
 
 Features that have a checkmark are complete and available for
 download in the
-[CI build](http://vsixgallery.com/extension/{ID}/).
+[release page](https://github.com/t0nic/killswitch-windows/releases).
 
 # Change log
 
