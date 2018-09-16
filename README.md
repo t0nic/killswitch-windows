@@ -33,6 +33,7 @@ This is for the people who use a VPN that does not come with a premade kill swit
 
 ## Contribute/To Do
 ### If you wanna help or wanna know what is going to be added in the coming releases, here is a list of things that need to be done.
+- create linux version
 - There is a bug with re-enabling the interface (quick fix by reoping and closing the program)
 - Give the option to close all programs with internet traffic besides the vpn
 - Auto detect interface
