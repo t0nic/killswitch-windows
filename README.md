@@ -17,7 +17,12 @@ See the [change log](CHANGELOG.md) for changes and road map.
 - turn on your vpn
 - run KillSwitch
 - select the interface that your vpn runs on
-- surf with easy
+- if you are disconnected from the vppn
+  - close all programs that could expose your (once you turn your internet traffic back on)
+  - close KillSwitch
+  - restart KillSwitch, and close it after you see that your internet has been enabled.
+  - connect to your vpn again and run the program
+ 
   
 ## How it works
 Once your vpn is connect, and you have selected the proper interface, KillSwitch will begin listening for a change of connection on that interface, and once it does, it will quickly check if your vpn is down, and if it is, KillSwitch will use ipconfig to disable outgoing traffic to stop yourself from leaking your IP.
