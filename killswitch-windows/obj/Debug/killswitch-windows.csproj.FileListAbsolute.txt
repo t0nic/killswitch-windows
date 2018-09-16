@@ -1,0 +1,13 @@
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\bin\Debug\killswitch-windows.exe.config
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\bin\Debug\killswitch-windows.exe
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\bin\Debug\killswitch-windows.pdb
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\bin\Debug\Colorful.Console.dll
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\obj\Debug\killswitch-windows.csprojAssemblyReference.cache
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\obj\Debug\killswitch-windows.csproj.CoreCompileInputs.cache
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\obj\Debug\killswitch-windows.csproj.CopyComplete
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\obj\Debug\killswitch-windows.exe
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\obj\Debug\killswitch-windows.pdb
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\bin\Debug\killswitch-windows.exe.manifest
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\bin\Debug\killswitch-windows.application
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\obj\Debug\killswitch-windows.exe.manifest
+C:\Users\zer0\source\repos\killswitch-windows\killswitch-windows\obj\Debug\killswitch-windows.application
