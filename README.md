@@ -17,7 +17,7 @@ See the [change log](CHANGELOG.md) for changes and road map.
 - turn on your vpn
 - run KillSwitch
 - select the interface that your vpn runs on
-- if you are disconnected from the vppn
+- if you are disconnected from the vpn
   - close all programs that could expose your (once you turn your internet traffic back on)
   - close KillSwitch
   - restart KillSwitch, and close it after you see that your internet has been enabled.
