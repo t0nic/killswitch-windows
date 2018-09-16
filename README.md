@@ -2,7 +2,7 @@
 <!-- Replace this badge with your own-->
 [![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
 
-Download The Precompiled binary [here](https://github.com/t0nic/killswitch-windows/releases])
+Download The Precompiled binary [here](https://github.com/t0nic/killswitch-windows/releases)
 ---------------------------------------
 
 ![Loading image...](https://i.imgur.com/B29zayG.png)
