@@ -16,5 +16,5 @@ wew lad im gonna make this better i promise
 - [x] Initial release
 - [x] Listen for vpn disconnection
   - [x] Disable outgoing/incoming internet traffic
-
+- [x] re-enable internet upon start of program
   
