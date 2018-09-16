@@ -5,9 +5,9 @@
 Download The Precompiled binary [here](https://github.com/t0nic/killswitch-windows/releases])
 ---------------------------------------
 
-![alt text](https://i.imgur.com/B29zayG.png)
+![Loading image...](https://i.imgur.com/B29zayG.png)
 
-VPN Kill switch which used a listener to detech a change
+VPN Kill switch which used a listener to detect disconnections
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
@@ -29,11 +29,13 @@ This is for the people who use a VPN that does not come with a premade kill swit
 ## Contribute
 do et
 
-For cloning and building this project yourself, make sure
-to install the
-[Extensibility Tools 2015](https://visualstudiogallery.msdn.microsoft.com/ab39a092-1343-46e2-b0f1-6a3f91155aa6)
-extension for Visual Studio which enables some features
-used by this project.
+## Program screenshots
+### Selecting the interface and running the scanner/listener
+![Loading image....](https://imgur.com/a/TO43uK9)
+### Dissconnecting from the vpn (we try to avoid this)
+![Loading image....](https://i.imgur.com/usPChe2.png)
+### Internet connection disabled
+![Loading image....](https://i.imgur.com/ZyncrDJ.png) 
 
 ## License
-[Apache 2.0](LICENSE)
+
