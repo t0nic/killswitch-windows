@@ -26,8 +26,12 @@ Once your vpn is connect, and you have selected the proper interface, KillSwitch
 This is for the people who use a VPN that does not come with a premade kill switch.
   
 
-## Contribute
-do et
+## Contribute/To Do
+### If you wanna help or wanna know what is going to be added in the coming releases, here is a list of things that need to be done.
+- There is a bug with re-enabling the interface (quick fix by reoping and closing the program)
+- Give the option to close all programs with internet traffic besides the vpn
+- Auto detect interface
+- use multithreading
 
 ## Program screenshots
 ### Selecting the interface and running the scanner/listener
