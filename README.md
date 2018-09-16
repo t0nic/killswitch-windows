@@ -1,5 +1,4 @@
-# {Name}
-
+# KillSwitch
 <!-- Replace this badge with your own-->
 [![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
 
@@ -11,26 +10,27 @@ or get the [CI build](http://vsixgallery.com/extension/{ID}/).
 
 {Description}
 
+VPN Kill switch which used a listener to detech a change
+
 See the [change log](CHANGELOG.md) for changes and road map.
 
-## Features
+## How To Use
 
-- Feature 1
-- Feature 2
-  - Sub feature
+- download the source and compile, or go to releases and download the precompiled binary
+- turn on your vpn
+- run KillSwitch
+- select the interface that your vpn runs on
+- surf with easy
+  
+## How it works
+Once your vpn is connect, and you have selected the proper interface, KillSwitch will begin listening for a change of connection on that interface, and once it does, it will quickly check if your vpn is down, and if it is, KillSwitch will use ipconfig to disable outgoing traffic to stop yourself from leaking your IP.
 
-### Feature 1
-Describe feature 1. Add screenshots/code samples etc.
-
-### Feature 2
-Describe feature 2. Add screenshots/code samples etc.
-
-#### Sub feature
-Describe sub feature. Add screenshots/code samples etc.
+## Why?
+This is for the people who use a VPN that does not come with a premade kill switch.
+  
 
 ## Contribute
-Check out the [contribution guidelines](CONTRIBUTING.md)
-if you want to contribute to this project.
+do et
 
 For cloning and building this project yourself, make sure
 to install the
