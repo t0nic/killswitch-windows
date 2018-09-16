@@ -9,7 +9,7 @@ download in the
 
 # Change log
 
-Changes made to the project.
+wew lad im gonna make this better i promise
 
 ## 1.0
 
