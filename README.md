@@ -1,3 +1,14 @@
+# NOTICE!
+## TODAY THIS PROGRAM WILL BE REWRITTEN IN .NET CORE
+it will now be cross platform, the only thing that isnt already is the color api, and the method for disabling internet.
+will update changelog soon.
+
+
+
+
+
+
+
 # KillSwitch
 <!-- Replace this badge with your own-->
 [![Build status](https://ci.appveyor.com/api/projects/status/hv6uyc059rqbc6fj?svg=true)](https://ci.appveyor.com/project/madskristensen/extensibilitytools)
