@@ -1,8 +1,5 @@
 # NOTICE!
-## TODAY THIS PROGRAM WILL BE REWRITTEN IN .NET CORE
-it will now be cross platform, the only thing that isnt already is the color api, and the method for disabling internet.
-will update changelog soon.
-
+I have been meaning to work on this, but I do not have the time right now. I am going to post the source for [killswitch-core](https://github.com/t0nic/killswitch-core) which is a better version of this program written in .NET Core
 
 
 
